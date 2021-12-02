@@ -28,9 +28,9 @@ content="""
 <title>My webserver</title>
 </head>
 <body>
-<h1>Name : Syed Muhammed Zahi</h1>
-<h2>21004029</h2>
-<h3>Dept.:Artificial Intelligence and Data Science</h3>
+<h1>Name : mitta bhavishya</h1>
+<h2>21002548</h2>
+<h3>Dept.:Artificial Intelligence and data science</h3>
 </body>
 </html>
 """
