@@ -48,7 +48,7 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![GitHub Logo](Webserver.png.png)
+![GitHub Logo](bhavishyaweb.png)
 
 ## RESULT:
 Program Finished Successfully
